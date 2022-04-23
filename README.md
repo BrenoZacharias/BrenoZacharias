@@ -27,5 +27,3 @@ Procuro me desenvolver na área de desenvolvimento de software.
    <img align="center" alt="Breno-Spring" height="30" width="40" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=whit">
    <img align="center" alt="Breno-MySQL" height="30" width="40" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   </div>
-  
-![Snake animation](https://github.com/BrenoZacharias/BrenoZacharias/blob/output/github-contribution-grid-snake.svg)
