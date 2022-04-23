@@ -22,7 +22,7 @@ Oiii, me chamo Breno Zacharias =)
   <hr>
   
 <div>
-  <a href="https://www.instagram.com/breno_zcharias/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/breno_zacharias/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/breno-marcondes-zacharias-6a6180229/" target="_black"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_black"></a>
 </div>
 
