@@ -7,7 +7,7 @@ Oiii, me chamo Breno Zacharias =)
 
 - ❤️ Pronomes: Ele/dele
 
-<div style="display: inline_block"><br>
+<div>
   <a href="https://github.com/BrenoZacharias">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=BrenoZacharias&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoZacharias&layout=compact&langs_count=7&theme=tokyonight"/>
