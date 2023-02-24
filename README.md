@@ -1,8 +1,3 @@
-<h3>  <br>
-Oiii, me chamo Breno Zacharias =)
-<br>
-</h3>
-
 - 🖥️ Aprendendo Kotlin
   
 <div>
